@@ -1,0 +1,39 @@
+CSS CODE-
+
+body {
+    background-color: #a661d1;
+    font-family: 'Arial', sans-serif;
+    color: #827474;
+}
+
+h1 {
+    color: #5a5c5e;
+}
+
+#time-display {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    color: #343a40;
+}
+
+.card {
+    border-radius: 15px;
+    background-color: #f8f9fa;
+}
+
+.btn {
+    border-radius: 25px;
+    font-size: 18px;
+}
+
+
+#laps {
+    max-width: 600px;
+    margin: auto;
+}
+
+#lap-list li {
+    background-color: #dee2e6;
+    color: #495057;
+}
